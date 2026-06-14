@@ -200,10 +200,13 @@ const svelteFiles = {
 			path: FRONTEND_COMPONENTS_DIR,
 			templates: [
 				'admin/logger/logger-service.js',
+				'admin/logger/logger-service.spec.js',
 				'admin/logger/logger-table.svelte',
 				'admin/logger/logger-table.spec.js',
 				'auth/auth-service.js',
+				'auth/auth-service.spec.js',
 				'auth/auth-store.js',
+				'auth/auth-store.spec.js',
 				'auth/auth-guard.svelte',
 				'auth/role-guard.svelte',
 				'account/account-menu.svelte',
