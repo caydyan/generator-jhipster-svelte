@@ -213,6 +213,7 @@ const svelteFiles = {
 				'account/account-menu.svelte',
 				'admin/admin-menu.svelte',
 				'entities/entity-menu.svelte',
+				'entities/entity-menu.spec.js',
 				'layout/footer.svelte',
 				'layout/footer.spec.js',
 				'layout/navbar.svelte',
