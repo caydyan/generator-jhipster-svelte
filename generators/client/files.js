@@ -212,6 +212,7 @@ const svelteFiles = {
 				'auth/role-guard.spec.js',
 				'account/account-menu.svelte',
 				'admin/admin-menu.svelte',
+				'admin/admin-menu.spec.js',
 				'entities/entity-menu.svelte',
 				'entities/entity-menu.spec.js',
 				'layout/footer.svelte',
