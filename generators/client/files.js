@@ -209,6 +209,7 @@ const svelteFiles = {
 				'auth/auth-store.spec.js',
 				'auth/auth-guard.svelte',
 				'auth/role-guard.svelte',
+				'auth/role-guard.spec.js',
 				'account/account-menu.svelte',
 				'admin/admin-menu.svelte',
 				'entities/entity-menu.svelte',
